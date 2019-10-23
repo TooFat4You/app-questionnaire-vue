@@ -1,6 +1,6 @@
 # app-questionnaire-vue
 
-##Objectif de cette séacne (23-10-2019)
+## Objectif de cette séance (23-10-2019)
 - Mise en place de la structure de l'application
 - Création et mise en places des repository (pour production et pour les sources
 - Ajout de fonctionnalités (Vuetify, PouchDB, CouchDB)
