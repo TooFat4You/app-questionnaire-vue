@@ -85,8 +85,6 @@
 </template>
 
 <script>
-  var PouchDB = require('pouchdb');
-  var db = new PouchDB('kittens');
 
 export default {
   data: () => ({
